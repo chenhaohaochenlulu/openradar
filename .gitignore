@@ -1,0 +1,13 @@
+*.svn-base
+*.db
+.svn/entries
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.manifest
+*.dep
+winradar/winradar/Debug/BuildLog.htm
+*.ncb
+winradar/Debug/winradar.exe
+.svn/format
