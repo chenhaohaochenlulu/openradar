@@ -1,0 +1,29 @@
+#ifndef RADAR_H
+#define RADAR_H
+
+#define RADAR_DEBUG 1
+#include "spaceLocation.h"
+#include "object.h"
+
+//other .h file show before the debug.h
+#include "debug.h"
+
+/*
+雷达发射电磁波对目标进行照射并接收其回波，由此获得目标至电磁波发射点的
+1.距离(distance)、
+2.距离变化率(Range change rate)（径向速度）、
+3.空间位置(space position/location)、
+4.高度(high)
+等信息。 
+*/
+
+class CRadar
+{
+public:
+	CRadar();
+	~CRadar();
+	
+};
+
+
+#endif //RADAR_H

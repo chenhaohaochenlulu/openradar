@@ -1,0 +1,8 @@
+
+class CSpaceLocation
+{
+public:
+	CSpaceLocation();
+	~CSpaceLocation();	
+	
+};

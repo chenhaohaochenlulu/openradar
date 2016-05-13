@@ -1,0 +1,7 @@
+#ifndef SPACE_LOCATION_H
+#define SPACE_LOCATION_H
+
+#define SPACE_LOCATION_DEBUG 0
+
+
+#endif //SPACE_LOCATION_H
