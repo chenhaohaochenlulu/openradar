@@ -11,3 +11,5 @@ winradar/winradar/Debug/BuildLog.htm
 *.ncb
 winradar/Debug/winradar.exe
 .svn/format
+src/iradar
+
